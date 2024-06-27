@@ -162,12 +162,9 @@ footer {
   transform: translate(50%, 100%);
 }
 
-
-
 @media (max-width: 725px) {
   .logo {
     margin: -1rem auto 3rem 3rem;
-    
   }
   .logo img {
     width: 10rem;
@@ -175,7 +172,6 @@ footer {
   .img-mobile-section img {
     display: block;
     margin-bottom: 8rem;
-   
   }
 
   .img-section img {
@@ -205,17 +201,14 @@ footer {
 
   .hero-text p {
     line-height: 3rem;
-    padding-right: 0 ;
+    padding-right: 0;
     margin: 0 4rem 4rem 4rem;
   }
-  
+
   form {
     width: 100%;
-    
-   
   }
   .form-group button {
-    
     height: 5rem;
     width: 10rem;
     top: 0;
@@ -223,7 +216,6 @@ footer {
     cursor: pointer;
   }
   .form-group input {
-    
     height: 5rem;
     width: 80%;
     margin-bottom: 10rem;
@@ -231,7 +223,6 @@ footer {
   .text-error {
     margin-top: 2rem !important;
     margin-left: 6rem !important;
-    
   }
 
   .icon-error {
@@ -245,5 +236,5 @@ footer {
 }
 
 .hidden {
-    display: none;
-  }
+  display: none;
+}
